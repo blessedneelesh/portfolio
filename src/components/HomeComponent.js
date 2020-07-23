@@ -10,7 +10,7 @@ class Home extends React.Component{
 
                     </div> */}
                     <div className='col-12 col-sm-4 order-sm-first order-last offset-sm-1 mt-5'>
-                    <img src="assets/images/ass.jpg" style={{borderRadius: "50%", height: "400px"}} class="mt-3" />
+                    <img src="../../build/assets/images/ass.jpg" style={{borderRadius: "50%", height: "400px"}} class="mt-3" />
 
                     </div>
                     <div className='col-12 col-sm-5 right mt-5'>
