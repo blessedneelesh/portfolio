@@ -29,7 +29,7 @@ class Header extends React.Component {
 
                         <div className='col-12 col-sm-4'>
                         <Navbar color="faded" light expand='sm'>
-                            <NavbarBrand href="/home" className="mr-auto">
+                            <NavbarBrand to="/home" className="mr-auto">
                             <div class="name">Neelesh Maharjan</div>
                         <div class="profession">Web Designer/ Stylist</div>
                             </NavbarBrand>
